@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CloneRemoveCache</string>
+    <string name="text_clean_cache_interrupt">interrupt</string>
+    <string name="text_clean_cache_finish">finish</string>
+</resources>
